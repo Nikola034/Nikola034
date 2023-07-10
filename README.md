@@ -1,6 +1,5 @@
 # Hi, I'm Nikola
-
-                ## Student,
+## Student
 <!--
 **Nikola034/Nikola034** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
