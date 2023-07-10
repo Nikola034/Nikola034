@@ -1,5 +1,9 @@
 # Hi, I'm Nikola
-## Student
+
+I am passionated and highly motivated student and backend developer.
+
+👯 I’m looking to collaborate on <b>daf</b>
+
 <!--
 **Nikola034/Nikola034** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
