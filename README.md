@@ -1,10 +1,10 @@
 # Hi, I'm Nikola
 
-I am passionated and highly motivated student and backend developer. I've successfully finished first year of Software engineering at Faculty of Technical Sciences in Novi Sad and i'm looking for more knowledge.
+I am passionated and highly motivated student and backend developer. I've successfully finished first year of Software engineering at Faculty of Technical Sciences in Novi Sad and M'm looking for more knowledge.
 Seeking for new opportunities and potential <b>internships</b> to expand my knowledge and gain useful experience.<br>
 
 👯 I’m looking to collaborate on <b>team and open-source projects.</b><br><br>
-🌱 I’m currently learning <b>Java, Spring Boot, MVC </b>and Full Stack Applications in general.<br><br>
+🌱 I’m currently learning <b>.NET, MVC, React </b>and Full Stack Applications in general.<br><br>
 📫 How to reach me: <a>nikolaking88@gmail.com</a><br><br>
 🔭 You can find my projects here: <a>https://github.com/Nikola034?tab=repositories</a><br><br>
 
