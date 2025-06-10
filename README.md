@@ -1,6 +1,6 @@
 # Hi, I'm Nikola
 
-I am passionated and highly motivated student and software developer. I've successfully finished second year of Software engineering at Faculty of Technical Sciences in Novi Sad and I'm looking for more knowledge.
+I am passionated and highly motivated student and software developer. I'm at the end of my third year of Software engineering at Faculty of Technical Sciences in Novi Sad and I'm looking for more knowledge.
 Seeking for new opportunities and potential <b>internships</b> to expand my knowledge and gain useful experience.<br>
 
 👯 I’m looking to collaborate on <b>team and open-source projects.</b><br><br>
