@@ -4,7 +4,7 @@ I am passionated and highly motivated student and software developer. I'm at the
 Seeking for new opportunities and potential <b>internships</b> to expand my knowledge and gain useful experience.<br>
 
 👯 I’m looking to collaborate on <b>team and open-source projects.</b><br><br>
-🌱 I’m currently learning <b>.NET, MVC, React, Angular </b>and Full Stack Web Development in general.<br><br>
+🌱 I’m currently learning <b>.NET, Angular, React, SQL, Cloud Architecture, DevOps </b>and Full Stack Web Development in general.<br><br>
 📫 How to reach me: <a>nikolaking88@gmail.com</a><br><br>
 🔭 You can find my projects here: <a>https://github.com/Nikola034?tab=repositories</a><br><br>
 
